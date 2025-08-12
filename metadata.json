@@ -1,0 +1,5 @@
+{
+  "name": "AI GitHub Profile README Generator",
+  "description": "An interactive application to generate stylish and comprehensive GitHub profile READMEs with live previews. Customize sections for bio, skills, social media, and GitHub stats with AI assistance.",
+  "requestFramePermissions": []
+}
